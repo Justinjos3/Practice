@@ -6,7 +6,7 @@ my_score = 0
 computer_score = 0
 
 
-while my_score != 10 and computer_score != 10:
+while my_score != 5 and computer_score != 5:
     opposing_weapon = random.choice(options)
     my_weapon = input("Enter your weapon: ")
     if my_weapon == "Rock" and opposing_weapon == "Scissors":

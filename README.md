@@ -1,1 +1,1 @@
-Simple rock paper scissors game made to practice using and implementing core Python concepts
+A few games and or projects made to get some practice using and implementing core Python concepts
